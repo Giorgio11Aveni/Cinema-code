@@ -1,0 +1,10 @@
+A Giugno 01 18 4 Giorgio Aveni 3466007498
+B Giugno 03 15 3 Pietro Aveni 3420439289
+C Giugno 04 20 1 Giuseppe Lanuzza 3542493918
+D Giugno 09 22 2 Riccardo Saltalamacchia 3020410382
+E Giugno 22 16 5 Mario Rossi 3029128463
+B Giugno 05 18 4 Antonino Aveni 3466007498
+B Giugno 03 15 3 Alberto Casciano 3420439289
+A Giugno 07 20 1 Giuseppe Puliafico 3542493918
+D Giugno 11 22 2 Riccardo Calabrese 3020410382
+C Giugno 30 16 5 Carlo Rossi 3029128463

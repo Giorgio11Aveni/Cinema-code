@@ -1,0 +1,37 @@
+A Giugno 01 17 Godzilla
+B Giugno 01 18 Dragon Ball  
+C Giugno 01 19 Titanic
+D Giugno 01 20 Natale a Dubai 
+E Giugno 01 21 8mile
+E Giugno 02 17 Godzilla 
+D Giugno 02 18 DragonBall 
+C Giugno 02 19 Titanic 
+B Giugno 02 17 Natale a Dubai 
+A Giugno 02 18 8mile
+A Giugno 03 19 Godzilla 
+B Giugno 03 20 Dragon ball 
+C Giugno 03 15 Titanic 
+D Giugno 03 15 Natale a dubai 
+E Giugno 03 15 8mile
+E Giugno 04 18 Godzilla 
+D Giugno 04 18 Dragon Ball
+C Giugno 04 18 Titanic 
+B Giugno 04 18 Natale a Dubai
+A Giugno 04 18 8mile
+A Giugno 05 18 Godzilla 
+B Giugno 05 18 Dragon Ball
+C Giugno 05 20 Titanic 
+D Giugno 05 20 Natale a Dubai
+E Giugno 05 20 8mile
+E Giugno 06 20 Godzilla
+D Giugno 06 20 Dragon Ball 
+C Giugno 06 20 Titanic
+B Giugno 06 20 Natale a Dubai 
+A Giugno 06 17 8mile 
+A Giugno 07 17 Godzilla 
+B Giugno 07 17 Dragon Ball
+C Giugno 07 17 Titanic
+D Giugno 07 17 Natale a Dubai 
+E Giugno 07 17 8mile
+
+
